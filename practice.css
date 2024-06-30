@@ -21,3 +21,14 @@ body{
     box-sizing: border-box;
     
 }
+#img1{
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    display:block;
+   object-fit: cover;
+    
+    
+    
+}
+
