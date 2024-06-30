@@ -5,3 +5,8 @@ body{
     
     font-family: "Open Sans", sans-serif;
 }
+
+#m1{
+    max-width: 1400px;
+    margin: auto;
+}
